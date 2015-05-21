@@ -1,3 +1,4 @@
+
 Android DocumentCentricRelinquishIdentity Sample
 ===================================
 
